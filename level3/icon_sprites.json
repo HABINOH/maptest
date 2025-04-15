@@ -1,0 +1,37 @@
+{
+  "platinum": {
+    "width": 1218,
+    "height": 1064,
+    "x": -10,
+    "y": -10,
+    "pixelRatio": 1
+  },
+  "gold": {
+    "width": 1125,
+    "height": 1125,
+    "x": -10,
+    "y": -1094,
+    "pixelRatio": 1
+  },
+  "silver": {
+    "width": 1086,
+    "height": 1088,
+    "x": -2393,
+    "y": -10,
+    "pixelRatio": 1
+  },
+  "bronze": {
+    "width": 1125,
+    "height": 1125,
+    "x": -1248,
+    "y": -10,
+    "pixelRatio": 1
+  },
+  "default": {
+    "width": 747,
+    "height": 1102,
+    "x": -10,
+    "y": -2239,
+    "pixelRatio": 1
+  }
+}
